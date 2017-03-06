@@ -25,7 +25,11 @@ Study the sample-code and the parameter- and function-List for usage.
 The `parameter` table contains the following properties:
 
 ##### text <small>(required)</small>
-_[string]()._ The text to display.
+_[string](https://docs.coronalabs.com/api/library/string/find.html)._ The text to display.
+
+##### width <small>(optional)</small>
+_[number](https://docs.coronalabs.com/api/type/Number.html)._ The desired width of the paragraph. 
+
 
 
 ## Examples
