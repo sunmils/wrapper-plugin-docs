@@ -12,7 +12,7 @@
 
 What you get with the newParagraph function is a corona display-group with text objects inside.
 
-Use '"\n"' within your text to force line breaks.
+Use `"\n"` within your text to force line breaks.
 
 The fontColor must be set with:
 
