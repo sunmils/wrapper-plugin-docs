@@ -30,6 +30,13 @@ _[string](https://docs.coronalabs.com/api/library/string/find.html)._ The text t
 ##### width <small>(optional)</small>
 _[number](https://docs.coronalabs.com/api/type/Number.html)._ The desired width of the paragraph. 
 
+##### height <small>(optional)</small>
+_[number](https://docs.coronalabs.com/api/type/Number.html)._ The desired height of the paragraph. If a height is set, the fontsize will be ignored and appointed automatically.
+
+##### font <small>(optional)</small>
+_[string](https://docs.coronalabs.com/api/library/string/find.html)._ The desired font.
+
+
 
 
 ## Examples
@@ -39,9 +46,9 @@ local myParagraph = Wrapper.newParagraph({
 
 	text = "Wrapper Class Sample-Text\n\nCorona's framework dramatically increase productivity. \n\nTasks like animating objects in OpenGL or creating user-interface widgets take only one line of code, and changes are instantly viewable in the Corona Simulator.",
 	width = 400,
-	height = 400,                   -- fontSize will be calculated automatically if set 
-	font = native.systemFont, 	-- make sure the used font is installed on your system
-	--fontSize = 30,		-- not needed if height is set 	
+	height = 400,                   	-- fontSize will be calculated automatically if set 
+	font = native.systemFont, 		-- make sure the used font is installed on your system
+	--fontSize = 30,			-- not needed if height is set 	
 	lineSpace = 2,
 	alignment  = "center",
 	
