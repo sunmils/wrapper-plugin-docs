@@ -19,7 +19,6 @@ The wrapper plugin allows you to wrap a text with a variable length into a desir
 
 	local wrapper = require "plugin.wrapper"
 
-<br>
 
 ### Functions
 
@@ -33,7 +32,7 @@ The wrapper plugin allows you to wrap a text with a variable length into a desir
 
 In order to use this plugin, you must activate the plugin at the [Corona Store](http://store.coronalabs.com/plugin/wrapper).
 
-<br>
+
 ### SDK
 
 When you build using the Corona Simulator, the server automatically takes care of integrating the plugin into your project. 
@@ -54,7 +53,7 @@ settings =
 	},		
 }
 ``````
-<br>
+
 ### Enterprise
 
 If you have activated this plugin, you can download this plugin from the corresponding plugin page in the [Corona Store](http://store.coronalabs.com/plugin/wrapper).
