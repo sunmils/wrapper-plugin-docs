@@ -68,7 +68,7 @@ If you have activated this plugin, you can download this plugin from the corresp
 
 You can access sample code [here](https://github.com/sunmils/corona-wrapper-plugin-sample-code).
 
-
+<br>
 ## Compatibility
 
 Runs on all platforms.
