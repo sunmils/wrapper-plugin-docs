@@ -5,7 +5,7 @@
 |:--|:--|
 | __Type__             | [Library](http://docs.coronalabs.com/api/type/Library.html)
 | __Download__         | [wrapper](http://store.coronalabs.com/plugin/wrapper)
-| __Sample Code__      | [github](http://store.coronalabs.com/plugin/wrapper)
+| __Sample Code__      | [wrapper sample](https://github.com/sunmils/corona-wrapper-plugin-sample-code)
 
 ## Overview
 
@@ -62,7 +62,7 @@ If you have activated this plugin, you can download this plugin from the corresp
 
 ### Sample Code
 
-You can access sample code [here](SAMPLE_CODE_URL).
+You can access sample code [here](https://github.com/sunmils/corona-wrapper-plugin-sample-code).
 
 
 
