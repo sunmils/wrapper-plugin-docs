@@ -9,7 +9,7 @@
 
 ## Overview
 
-The wrapper plugin allows you to wrap a text with variable length into a desired with and height. Different text will always fit A t utorial window or speech bubble, for example.
+The wrapper plugin allows you to wrap a text with a variable length into a desired with and height. Different text will always fit a t utorial window or speech bubble, for example.
 
 
 ## Syntax
