@@ -18,7 +18,7 @@ The fontColor must be set with:
 ``````lua
 myParagraph:setTextColor({r,g,b,[alpha]})
 ``````
-Change text:<br>
+Text changes:<br>
 In fact that a new text must be wrapped anyway, you have to generate a new object for text changes.
 
 Study the sample-code and the parameter-list for usage.
