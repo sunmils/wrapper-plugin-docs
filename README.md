@@ -28,7 +28,7 @@ View the newParagraph docs and the sample code for detailed instructions.
 
 ### Functions
 
-##### [wrapper.newParagraph()](newParagraph.markdown)
+##### [wrapper.newParagraph()](newParagraph.md)
 
 <br>
 
