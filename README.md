@@ -15,6 +15,9 @@
 
 The wrapper plugin allows you to wrap a text with a variable length into a desired with and height. Different text will always fit a t utorial window or speech bubble, for example.
 
+Choose if you want a fix font size, then the height will be determined automatically. Or you choose a fix height, then the font size will be determined automatically.
+
+
 <br>
 
 ## Syntax
