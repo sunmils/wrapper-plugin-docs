@@ -33,7 +33,7 @@ _[number](https://docs.coronalabs.com/api/type/Number.html)._ The desired width 
 #### height <small>(optional)</small>
 _[number](https://docs.coronalabs.com/api/type/Number.html)._ The desired height of the paragraph. If a height is set, the fontsize will be ignored and appointed automatically.
 
-#### font <small>(optional)</small>
+#### font <small>(optional, system font by default)</small>
 _[string](https://docs.coronalabs.com/api/library/string/find.html)._ The desired font.
 
 
