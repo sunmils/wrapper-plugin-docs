@@ -22,7 +22,7 @@ myParagraph:setTextColor({r,g,b,[alpha]})
 
 In fact that a new text must be wrapped anyway, you have to generate a new object for text changes.
 
-Study the sample-code and the parameter- and function-List for usage.
+Study the sample-code and the parameter-list for usage.
 
 
 ## Syntax
