@@ -70,9 +70,9 @@ local myParagraph = Wrapper.newParagraph({
 
 	text = "Wrapper Class Sample-Text\n\nCorona's framework dramatically increase productivity. \n\nTasks like animating objects in OpenGL or creating user-interface widgets take only one line of code, and changes are instantly viewable in the Corona Simulator.",
 	width = 400,
-	height = 400,                   	-- fontSize will be calculated automatically if set 
-	font = native.systemFont, 		-- make sure the used font is installed on your system
-	--fontSize = 30,			-- not needed if height is set 	
+	height = 400, -- fontSize will be calculated automatically if set 
+	font = native.systemFont, -- make sure the used font is installed on your system
+	--fontSize = 30, -- not needed if height is set 	
 	lineSpace = 2,
 	alignment  = "center",
 	
