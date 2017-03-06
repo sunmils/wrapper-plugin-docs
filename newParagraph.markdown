@@ -14,7 +14,12 @@ What you get with the newParagraph-function is a normal display-group with text 
 
 Use "\n" within your text to force line breaks.
 
-The fontColor must be set with myParagraph:setTextColor({r,g,b,[alpha]}).
+The fontColor must be set with:
+
+``````lua
+myParagraph:setTextColor({r,g,b,[alpha]})
+``````
+
 
 Study the sample-code and the parameter- and function-List for usage.
 
