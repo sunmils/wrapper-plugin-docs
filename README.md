@@ -20,9 +20,8 @@ The wrapper plugin allows you to wrap a text with a variable length into a desir
 
 ##### [wrapper.newParagraph()](newParagraph.markdown)
 
-##
 
-
+<br><br>
 
 ## Project Configuration
 
