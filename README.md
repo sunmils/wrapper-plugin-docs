@@ -1,8 +1,6 @@
 
 # wrapper: Plugin API Docs
 
-|                      | &nbsp; 
-| -------------------- | ---------------------------------------------------------------
 | __Type__             | [Library](http://docs.coronalabs.com/api/type/Library.html)
 | __Download__         | [wrapper](http://store.coronalabs.com/plugin/wrapper)
 | __Sample Code__      | [github](http://store.coronalabs.com/plugin/wrapper)
