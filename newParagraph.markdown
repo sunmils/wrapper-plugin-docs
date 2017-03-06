@@ -10,7 +10,7 @@
 
 ## Overview
 
-What you get with the newParagraph-function is a normal display-group with text objects inside.
+What you get with the newParagraph function is a corona display-group with text objects inside.
 
 Use "\n" within your text to force line breaks.
 
