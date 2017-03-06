@@ -1,6 +1,8 @@
 
 # wrapper: Plugin API Docs
 
+<br>
+
 |||
 |:--|:--|
 | __Type__             | [Library](http://docs.coronalabs.com/api/type/Library.html)
@@ -65,8 +67,6 @@ If you have activated this plugin, you can download this plugin from the corresp
 ### Sample Code
 
 You can access sample code [here](https://github.com/sunmils/corona-wrapper-plugin-sample-code).
-
-<br>
 
 
 ## Compatibility
