@@ -15,7 +15,7 @@
 
 The wrapper plugin allows you to wrap a text with a variable length into a desired width and height. Different text will always fit a tutorial window or speech bubble, for example.
 
-View the newParagraph docs and the sample code for detailed instructions.
+View the wrapper.newParagraph() docs and the sample code for detailed instructions.
 
 <br>
 
