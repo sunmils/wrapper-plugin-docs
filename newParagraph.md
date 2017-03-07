@@ -59,7 +59,7 @@ _[number](https://docs.coronalabs.com/api/type/Number.html)._ This value is the 
 _[number](https://docs.coronalabs.com/api/type/Number.html)._ If you want to have a limit of the font-size, here you can set it up. 0 means no limit.
 
 #### incrementSize <small>(optional, default: 1)</small>
-_[number](https://docs.coronalabs.com/api/type/Number.html)._ This is the amount of the fontsize raise for font-sizing. Higher numbers will speed up the sizing, but the result of the calculated fontsize is up to n-1 smaler as it could be.
+_[number](https://docs.coronalabs.com/api/type/Number.html)._ This is the amount of the fontsize raise for font-sizing. Higher numbers will speed up the sizing, but the result of the calculated fontsize is up to n-1 smaller as it could be.
 
 
 
