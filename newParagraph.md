@@ -85,7 +85,7 @@ local myParagraph = Wrapper.newParagraph({
 myParagraph.anchorChildren = true
 myParagraph.anchorX = 0.5
 myParagraph.anchorY = 0
-myParagraph.x = _W/2
+myParagraph.x = display.contentWidth/2
 myParagraph.y = 70
 
 
