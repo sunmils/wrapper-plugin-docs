@@ -49,7 +49,7 @@ _[number](https://docs.coronalabs.com/api/type/Number.html)._ The desired fontSi
 #### lineSpace <small>(optional)</small>
 _[number](https://docs.coronalabs.com/api/type/Number.html)._ You can increase/decrease the line space with +/- values.
 
-#### alignment <small>(optional, default: system font)</small>
+#### alignment <small>(optional, default: "center")</small>
 _[string](https://docs.coronalabs.com/api/library/string/find.html)._ Choose "left", "center"" or "right"" alignment.
 
 #### fontSizeMin <small>(optional, default: 6)</small>
