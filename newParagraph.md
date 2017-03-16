@@ -1,7 +1,7 @@
 # wrapper.newParagraph()
 
-|||
-|:--|:--|
+|                      | &nbsp; 
+| -------------------- | ---------------------------------------------------------------
 | __Type__             | [function](http://docs.coronalabs.com/api/type/Function.html)
 | __Library__          | [wrapper.*](Readme.markdown)
 | __Return value__     | [display object](https://docs.coronalabs.com/api/type/DisplayObject/index.html)
