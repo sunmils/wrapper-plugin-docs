@@ -3,8 +3,8 @@
 
 <br>
 
-|||
-|:--|:--|
+|                      | &nbsp; 
+| -------------------- | ---------------------------------------------------------------
 | __Type__             | [Library](http://docs.coronalabs.com/api/type/Library.html)
 | __Download__         | [wrapper](http://store.coronalabs.com/plugin/wrapper)
 | __Sample Code__      | [wrapper sample](https://github.com/sunmils/corona-wrapper-plugin-sample-code)
