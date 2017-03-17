@@ -53,7 +53,7 @@ _[number](https://docs.coronalabs.com/api/type/Number.html)._ You can increase/d
 _[string](https://docs.coronalabs.com/api/library/string/find.html)._ Choose "left", "center", "right" or "justify" alignment.
 
 #### fontSizeMin <small>(optional, default: 6)</small>
-_[number](https://docs.coronalabs.com/api/type/Number.html)._ This value is the start value for the search of the suitable font size. Increase the number for speed improvement, but use with care.
+_[number](https://docs.coronalabs.com/api/type/Number.html)._ This value is the start value for the search of the suitable font size. Increase the number for speed improvement. But use with care, if the text is too long it will maybe not fit your frame if fontSizeMin is set too high.
 
 #### fontSizeMax <small>(optional, default: 0)</small>
 _[number](https://docs.coronalabs.com/api/type/Number.html)._ If you want to have a limit for the font-size, here you can set it up. 0 means no limit.
