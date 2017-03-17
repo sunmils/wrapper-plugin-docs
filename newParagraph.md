@@ -53,13 +53,13 @@ _[number](https://docs.coronalabs.com/api/type/Number.html)._ You can increase/d
 _[string](https://docs.coronalabs.com/api/library/string/find.html)._ Choose "left", "center", "right" or "justify" alignment.
 
 #### fontSizeMin <small>(optional, default: 6)</small>
-_[number](https://docs.coronalabs.com/api/type/Number.html)._ This value is the start value for font-sizing if a height is set. Increase the number for speed improvement, but use with care.
+_[number](https://docs.coronalabs.com/api/type/Number.html)._ This value is the start value for the search of the suitable font size. Increase the number for speed improvement, but use with care.
 
 #### fontSizeMax <small>(optional, default: 0)</small>
-_[number](https://docs.coronalabs.com/api/type/Number.html)._ If you want to have a limit of the font-size, here you can set it up. 0 means no limit.
+_[number](https://docs.coronalabs.com/api/type/Number.html)._ If you want to have a limit for the font-size, here you can set it up. 0 means no limit.
 
 #### incrementSize <small>(optional, default: 1)</small>
-_[number](https://docs.coronalabs.com/api/type/Number.html)._ This is the amount of the fontsize raise for font-sizing. Higher numbers will speed up the sizing, but the result of the calculated fontsize is up to n-1 smaller as it could be.
+_[number](https://docs.coronalabs.com/api/type/Number.html)._ This is the amount of the fontsize raise for searching the suitable font size. Higher numbers will speed up the process, but the result of the calculated fontsize is up to incrementSize-1 smaller as it could be.
 
 
 
