@@ -50,7 +50,7 @@ _[number](https://docs.coronalabs.com/api/type/Number.html)._ The desired fontSi
 _[number](https://docs.coronalabs.com/api/type/Number.html)._ You can increase/decrease the line space with +/- values.
 
 #### alignment <small>(optional, default: "center")</small>
-_[string](https://docs.coronalabs.com/api/library/string/find.html)._ Choose "left", "center" or "right" alignment.
+_[string](https://docs.coronalabs.com/api/library/string/find.html)._ Choose "left", "center", "right" or "justify" alignment.
 
 #### fontSizeMin <small>(optional, default: 6)</small>
 _[number](https://docs.coronalabs.com/api/type/Number.html)._ This value is the start value for font-sizing if a height is set. Increase the number for speed improvement, but use with care.
