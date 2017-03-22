@@ -15,7 +15,7 @@
 
 The plugin allows you to wrap text of a variable length easily to a desired width and height. Varying text will always fit a tutorial window or speech bubble with the best possible font size.
 
-### Features
+##### Features
 - Automatic calculated font size
 - Custom linebreaks
 - "left", "center", "right" and "justify" alignment
