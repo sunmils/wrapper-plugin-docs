@@ -23,7 +23,7 @@ The plugin allows you to wrap text of a variable length easily to a desired widt
 <br>
 View the wrapper.newParagraph() docs and the sample code for detailed instructions.
 
-<br>
+<br><br>
 
 ## Syntax
 
