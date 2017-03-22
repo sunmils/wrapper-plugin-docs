@@ -79,7 +79,7 @@ local myParagraph = wrapper.newParagraph(
     -- these Parameters are just relevant if height is set
     fontSizeMin = 4,           	-- for speed tweaking
     incrementSize = 2,          -- for speed tweaking
-    fontSizeMax = 24
+    fontSizeMax = 30
 })
 
 myParagraph.anchorChildren = true
