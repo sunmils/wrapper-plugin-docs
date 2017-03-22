@@ -88,7 +88,6 @@ myParagraph.anchorY = 0
 myParagraph.x = display.contentWidth/2
 myParagraph.y = 70
 
-
 myParagraph:setTextColor({0,1,0})
 
 
