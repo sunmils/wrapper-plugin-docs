@@ -66,19 +66,20 @@ _[number](https://docs.coronalabs.com/api/type/Number.html)._ This is the amount
 ## Examples
 
 ``````lua
-local myParagraph = Wrapper.newParagraph({
-	text = "wrapper plugin sample-text\n\nCorona's framework dramatically increase productivity. \n\nTasks like animating objects in OpenGL or creating user-interface widgets take only one line of code, and changes are instantly viewable in the Corona Simulator.",
-	width = 400,
-	height = 400, -- fontSize will be calculated automatically if set 
-	font = native.systemFont, -- make sure the used font is installed on your system
-	--fontSize = 30, -- not needed if height is set 	
-	lineSpace = 2,
-	alignment  = "center",
-	
-	-- Parameters for speed tweaking, just relevant if height is set
-	fontSizeMin = 8,
-	fontSizeMax = 30,
-	incrementSize = 2
+local myParagraph = wrapper.newParagraph(
+{
+    text = "Wrapper Plugin Sample-Text\n\nCorona's framework dramatically increase productivity. \nTasks like animating objects in OpenGL or creating user-interface widgets take only one line of code, and changes are instantly viewable in the Corona Simulator.",
+    width = paragraphWidth,
+    height = paragraphHeight,   -- fontSize will be calculated automatically if set 
+    font = native.systemFont,   -- make sure the used font is installed on your system
+    --fontSize = 30,            -- not needed if height is set 	
+    lineSpace = 2,
+    alignment  = "center",      -- "left", "right", "center" or "justify" 
+    
+    -- these Parameters are just relevant if height is set
+    fontSizeMin = 4,           -- for speed tweaking
+    incrementSize = 2,          -- for speed tweaking
+    fontSizeMax = 24
 })
 
 myParagraph.anchorChildren = true
