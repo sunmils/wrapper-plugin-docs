@@ -40,7 +40,7 @@ View the wrapper.newParagraph() docs and the sample code for detailed instructio
 
 ### Corona Store Activation
 
-In order to use this plugin, you must activate the plugin at the [Corona Store](http://store.coronalabs.com/plugin/wrapper).
+In order to use this plugin, you must activate the plugin at the [Corona Store](https://marketplace.coronalabs.com/plugin/text-wrapper).
 
 
 ### SDK
@@ -66,7 +66,7 @@ settings =
 
 ### Enterprise
 
-If you have activated this plugin, you can download this plugin from the corresponding plugin page in the [Corona Store](http://store.coronalabs.com/plugin/wrapper).
+If you have activated this plugin, you can download this plugin from the corresponding plugin page in the [Corona Store](https://marketplace.coronalabs.com/plugin/text-wrapper).
 
 <br>
 
