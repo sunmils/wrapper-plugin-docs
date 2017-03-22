@@ -77,7 +77,7 @@ local myParagraph = wrapper.newParagraph(
     alignment  = "center",      -- "left", "right", "center" or "justify" 
     
     -- these Parameters are just relevant if height is set
-    fontSizeMin = 4,           -- for speed tweaking
+    fontSizeMin = 4,           	-- for speed tweaking
     incrementSize = 2,          -- for speed tweaking
     fontSizeMax = 24
 })
